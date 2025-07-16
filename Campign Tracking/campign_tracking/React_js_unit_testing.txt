@@ -1,0 +1,4 @@
+// Author: Priyanka Katare
+// Scope: Unit testing for CampaignTracking component – rendering, filtering, and content display
+// Precondition: CampaignTracking must be imported with mock campaign data
+// Expected Result: Component should render all campaigns, filter by status, and display correct details
